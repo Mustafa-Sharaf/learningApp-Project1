@@ -59,22 +59,41 @@ Do not display any content to any teacher without the approval of the supervisor
 - Students can solve tests, with correct questions being counted and displayed, incorrect questions being displayed, and the final score displayed at the end of the test.
 - Students can obtain a certificate upon completion of the test.
 ## ⚒️Languages & Frameworks & Tools:
-#### Frameworks:
-   -Flutter Framework as front-end
-   -Laravel Framework as Back-end
-#### Languages:
-   -Dart
-   -PHP
-   -JavaScripte
-   -HTML
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" style="margin: 60px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" style="margin: 60px;" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" style="margin: 60px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin: 10px;" />
+</p>
 
-This project is a starting point for a Flutter application.
+## 👥Team Members:
 
-A few resources to get you started if this is your first Flutter project:
+| S.N   | Name              | Role              | Technology |                         
+|-------|-------------------|-------------------|------------|
+| 1     | Mustafa Sharaf    | Mobile Developer  | Flutter    | 
+| 2     | Eline Faramnd     | Mobile Developer  | Flutter    | 
+| 3     | Mhran Abo Dakka   | Backend Developer | Laravel    | 
+| 4     | Reham Abbas       | Backend Developer | Laravel | 
+## 🖼️Project Preview:
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
