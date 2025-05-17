@@ -85,10 +85,8 @@ Do not display any content to any teacher without the approval of the supervisor
 | 3     | Mhran Abo Dakka   | Backend Developer | Laravel    | 
 | 4     | Reham Abbas       | Backend Developer | Laravel | 
 ## 🖼️Project Preview:
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+شاهد الفيديو على فيسبوك: [رابط الفيديو](https://www.facebook.com/share/p/16i2KUh3LG/)
+
 
 
 
