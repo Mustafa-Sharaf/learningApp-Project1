@@ -83,7 +83,7 @@ Do not display any content to any teacher without the approval of the supervisor
 | 1     | Mustafa Sharaf    | Mobile Developer  | Flutter    | 
 | 2     | Eline Faramnd     | Mobile Developer  | Flutter    | 
 | 3     | Mhran Abo Dakka   | Backend Developer | Laravel    | 
-| 4     | Reham Abbas       | Backend Developer | Laravel | 
+| 4     | Reham Abbas       | Backend Developer | Laravel    | 
 ## 🖼️Project Preview:
 Watch the video on Facebook: [Video link.](https://www.facebook.com/share/p/16i2KUh3LG/)
 
